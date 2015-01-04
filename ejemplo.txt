@@ -1,5 +1,2 @@
 [texto desde la rama master]
-<<<<<<< HEAD
-=======
 [texto desde la rama de dev]
->>>>>>> dev
